@@ -13,5 +13,5 @@ javafx {
 }
 
 application {
-    mainClass = 'test.App'
+    mainClass = 'appfolder.App'
 }
