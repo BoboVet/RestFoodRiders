@@ -1,6 +1,4 @@
 # RestFoodRiders
 This was a school project app
 <br>
-Please run using the terminal with the following command: 
-<br>
-./gradlew run
+This is a prototype for a food delivery app.
